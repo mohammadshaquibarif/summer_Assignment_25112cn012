@@ -1,4 +1,3 @@
-// write a program to find largest and smallest element
 #include <iostream>
 #include <algorithm>
 #include <climits>

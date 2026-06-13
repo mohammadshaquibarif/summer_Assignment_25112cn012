@@ -1,4 +1,3 @@
-// write a program to iput and display array
 #include <iostream>
 using namespace std;
 

@@ -1,4 +1,3 @@
-// write a program to count even and odd elemens
 #include <iostream>
 #include <array>
 

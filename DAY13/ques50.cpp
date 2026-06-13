@@ -1,4 +1,3 @@
-// write a program to find sum and average of array
 #include <iostream>
 using namespace std;
 
